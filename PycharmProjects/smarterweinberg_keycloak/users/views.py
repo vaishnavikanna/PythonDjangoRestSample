@@ -11,7 +11,7 @@ from urllib.parse import urlencode
 keycloak_openid = KeycloakOpenID(server_url="http://localhost:8080/",
                                  client_id="smarterweinberg_keycloak",
                                  realm_name="Kiwi_Users",
-                                 client_secret_key="WiZzusfE3GIX6xZOdQLwOOUkbk2ZXBAy")
+                                 client_secret_key="##########################")
 
 @api_view(['GET'])
 def login(request):
