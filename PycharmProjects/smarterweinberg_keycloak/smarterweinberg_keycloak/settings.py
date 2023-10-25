@@ -131,5 +131,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 KEYCLOAK_SERVER_URL = 'http://localhost:8080/'
 KEYCLOAK_REALM_NAME = 'Kiwi_Users'
 KEYCLOAK_CLIENT_ID = 'smarterweinberg_keycloak'
-KEYCLOAK_CLIENT_SECRET = 'WiZzusfE3GIX6xZOdQLwOOUkbk2ZXBAy'
+KEYCLOAK_CLIENT_SECRET = '#################################'
 KEYCLOAK_USE_PKCE = True
